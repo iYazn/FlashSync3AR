@@ -81,7 +81,8 @@
 ![IMG_2772](https://github.com/user-attachments/assets/6fcbddaf-4a89-459c-87f3-0e59fb6e4073)
 
 
-<p dir="rtl">الان استجابة الشاشة لتحديث وانظر بقية الصور هنا يتم إعادة تقسيم eMMC. </p>
+<p dir="rtl">الان استجابة الشاشة لتحديث وانظر بقية الصور 
+ هنا يتم إعادة تقسيم eMMC. </p>
 
 ![IMG_2750](https://github.com/user-attachments/assets/398e1f8b-bc3e-4caf-bd18-2c93e3e8d17d)
 
