@@ -21,7 +21,15 @@
  قم بتشغيل الكمبيوتر مباشرة عبر كابل USB. ( لا تحاول الاتصال عبر لوحة الاتصال Sync 3 USB. لن ينجح هذا ) ابدأ في توفير المزامنة عن طريق إرسال حزم CAN.
 </p>
 
-<p dir="rtl"> نفتح موجة الاوامر من داخل المجلد الموجود به الملفات الثلاث نمنح اداة sync3flash الصلاحيات عن طريق الأمر</p>
+<p dir="rtl">نفتح موجة الاوامر من داخل المجلد الموجود به الملفات الثلاثة</p>
+
+ <p dir="rtl">
+
+![IMG_2986](https://github.com/user-attachments/assets/6dad34fe-f795-4fa4-a0bd-3dd7e9349213)
+
+ </p>
+
+<p dir="rtl"> نمنح اداة sync3flash الصلاحيات عن طريق الأمر </p>
 
 `chmod +rwx sync3flash `
 
@@ -31,8 +39,11 @@
 
 `sudo ./sync3flash -i QNX-IFS-REFORMAT -m MLO`
 
+<p dir="rtl">
 
-![IMG_2753](https://github.com/user-attachments/assets/1ef5b504-690e-4d82-b9e7-17ab550cdfad) 
+![IMG_2987](https://github.com/user-attachments/assets/bc0b788e-9887-4169-8902-7f7a8443942e)
+
+ </p>
 
 <p dir="rtl">
 ملامسة الدائرة باللون الأحمر وفي الصورتين وهنا يوجد نسختين من اللوحة الالكترونية</p>
